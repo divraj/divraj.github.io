@@ -123,17 +123,11 @@ Use Airtable or Google Sheets etc to create a record of all the information you 
 
 ### Tools
 
-### Tabs 
+Tabs - Use tabs to queue pieces of information rather than reading immediately. This gives you time to further reassess whether the piece of information is worth reading. Curating while reading through shorter form news sources like Twitter requires a different cognitive state than reading longer form articles. Queing up the articles to read in batch lets you reach the desired optimal reading state. A further tip, arrange the tabs in most anticipated order in one direction in the browser this helps prioritize the most important reads first and often leads to discarding unnecessary reads.
 
-Use tabs to queue pieces of information rather than reading immediately. This gives you time to further reassess whether the piece of information is worth reading. Curating while reading through shorter form news sources like Twitter requires a different cognitive state than reading longer form articles. Queing up the articles to read in batch lets you reach the desired optimal reading state. A further tip, arrange the tabs in most anticipated order in one direction in the browser this helps prioritize the most important reads first and often leads to discarding unnecessary reads.
+Nuzzel - Combined with Twitter lists Nuzzel is a powerful to tool to curate and use as a signal in your curational engine. You can quickly assess the number of shares and the additional sentiment added while sharing the article. Here’s my mega crypto twitter list which you can use for Nuzzel https://nuzzel.com/divraj/crypto-assets .
 
-### Nuzzel
-
-Combined with Twitter lists Nuzzel is a powerful to tool to curate and use as a signal in your curational engine. You can quickly assess the number of shares and the additional sentiment added while sharing the article. Here’s my mega crypto twitter list which you can use for Nuzzel https://nuzzel.com/divraj/crypto-assets .
-
-### Pocket
-
-Pocket is great for reading offline like planes or nature retreats. It is also a great tool to skip reading many pieces of information you think are useful but really not. Most borderline pieces are better sent here rather than queued up in tab. 
+Pocket - Pocket is great for reading offline like planes or nature retreats. It is also a great tool to skip reading many pieces of information you think are useful but really not. Most borderline pieces are better sent here rather than queued up in tab. 
 Notion - Use Notion to record your rules and processes.
 Sheets or Airtable - To implement curational systems mentioned above. This information curation niche seems like an opportunity for a product. Refind tried something along the lines and technically pocket could add this functionality.
 Bookmarks ( here Brave ) - Create bookmarks to your favorite crypto information sources and communities.
