@@ -3,5 +3,4 @@ layout: page
 title: Projects
 ---
 
-Token Tally 
-http://tokentally.com
+[Token Tally - a curated list of crypto resources ](http://tokentally.com)
