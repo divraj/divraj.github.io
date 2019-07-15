@@ -23,7 +23,8 @@ Emerging technologies like VR / AR are still in their infancy with high cost of 
 Cost of production is approaching 0
 
 To create a piece of information that can reach millions one only needs a 100$ smartphone and an internet connection. Previously people needed access to a printing press.
-https://twitter.com/NTmoney/status/1126858365907406848
+
+[Nick Tomaino on crypto information](https://twitter.com/NTmoney/status/1126858365907406848)
 
 Marginal cost of distribution is approaching 0
 
