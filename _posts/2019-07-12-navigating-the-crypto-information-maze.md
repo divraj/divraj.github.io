@@ -10,6 +10,8 @@ First this post goes over the macro factors that make navigating the modern info
 
 The post uses examples from crypto but hope it will be valuable for most other fields. 
 
+![image tooltip here](/assets/compression.png)
+
 
 The chart above highlights how the internet has quickly accelerated information flows while also reducing the cost of producing and distributing information exponentially. For the sake of simplicity, the cost of creation and distribution are aggregated into one curve. Below I’ve expanded on how these exponentials affect information flows.
 
@@ -22,7 +24,7 @@ Cost of production is approaching 0
 
 To create a piece of information that can reach millions one only needs a 100$ smartphone and an internet connection. Previously people needed access to a printing press.
 
-[Nick Tomaino on crypto information](https://twitter.com/NTmoney/status/1126858365907406848){:target="_blank"}
+[Nick Tomaino on Crypto Information Asymmetries](https://twitter.com/NTmoney/status/1126858365907406848){:target="_blank"}
 
 Marginal cost of distribution is approaching 0
 
@@ -35,11 +37,10 @@ Algorithmic feeds aggregate and amplify information at a massive scale. The pote
 Additionally as the outlook of the ad driven algorithms are short term minded ( increase capitalist profits ) we sometimes get infinitely costly long term results.
 
 
-(https://twitter.com/eriktorenberg/status/1138574250158071808){:target="_blank"}
+[Erik Torenberg on the Information Deluge](https://twitter.com/eriktorenberg/status/1138574250158071808){:target="_blank"}
 
 These three exponentials of production, distribution and amplification while offering infinite leverage to the individual creator, result in high % of low quality information and biased information reaching you. Couple this with the fact that  information intake is effortless due to hardware innovation ( kindles , smartphones , airpods ) and software innovation ( text to speech ). You have potential for mass manipulation and echo chambers.
 
-(https://twitter.com/divraj/status/1121959776341020673){:target="_blank"}
 
 Furthermore, Information in crypto is fragmented across many different mediums due to the:- 
 Plethora of modern communication tools available
@@ -97,15 +98,15 @@ Original thoughtful profile picture and bio text
 
 For Newsletters 
 
-High % of original writing before links section  e.g. (https://proofofwork.news/){:target="_blank"}
-Original take or commentary on links shared e.g. (https://tokeneconomy.co/){:target="_blank"}{:target="_blank"}
-Strong or orthogonal curation of links which are not just the most popular posts of the week e.g. (https://weekinethereumnews.com/){:target="_blank"}
+High % of original writing before links section  e.g. [Proof of Work](https://proofofwork.news/){:target="_blank"}
+Original take or commentary on links shared e.g. [Token Economy](https://tokeneconomy.co/){:target="_blank"}{:target="_blank"}
+Strong or orthogonal curation of links which are not just the most popular posts of the week e.g. [Week in Ethereum](https://weekinethereumnews.com/){:target="_blank"}
  
 Do let me know of any tools or processes you use to curate information on twitter @divraj. Sharing these insights in public will help improve are meta curational engine ever slightly in aggregate making the crypto and greater sphere more antifragile.
 
 ### Adjacent Areas , Inefficient Formats
 
-In adjacent areas e.g. protocol research for an investor it may be more efficient to read high quality summaries on twitter or newsletters.  E.g. (https://zkcapital.substack.com/){:target="_blank"} 
+In adjacent areas e.g. protocol research for an investor it may be more efficient to read high quality summaries on twitter or newsletters.  E.g. [zK Capital Research](https://zkcapital.substack.com/){:target="_blank"} 
 
 Most books tend to be inefficient formats for consumption. To get critical information from books of interest before reading completely. One can follow the process of ‘fractal reading’.  
 Summaries - from wikipedia , blinkist or twitter storms
@@ -124,7 +125,7 @@ Use Airtable or Google Sheets etc to create a record of all the information you 
 
 Tabs - Use tabs to queue pieces of information rather than reading immediately. This gives you time to further reassess whether the piece of information is worth reading. Curating while reading through shorter form news sources like Twitter requires a different cognitive state than reading longer form articles. Queing up the articles to read in batch lets you reach the desired optimal reading state. A further tip, arrange the tabs in most anticipated order in one direction in the browser this helps prioritize the most important reads first and often leads to discarding unnecessary reads.
 
-Nuzzel - Combined with Twitter lists Nuzzel is a powerful to tool to curate and use as a signal in your curational engine. You can quickly assess the number of shares and the additional sentiment added while sharing the article. Here’s my mega crypto twitter list which you can use for Nuzzel (https://nuzzel.com/divraj/crypto-assets){:target="_blank"} .
+Nuzzel - Combined with Twitter lists Nuzzel is a powerful to tool to curate and use as a signal in your curational engine. You can quickly assess the number of shares and the additional sentiment added while sharing the article. Here’s my mega crypto twitter list which you can use for Nuzzel [Divraj's Master Crypto List](https://nuzzel.com/divraj/crypto-assets){:target="_blank"} .
 
 Pocket - Pocket is great for reading offline like planes or nature retreats. It is also a great tool to skip reading many pieces of information you think are useful but really not. Most borderline pieces are better sent here rather than queued up in tab. 
 Notion - Use Notion to record your rules and processes.
@@ -140,7 +141,7 @@ The Twitter strategy suggested below is based on reading tweets in lists elimina
 
 I intend to switch to a follower based algorithmic approach and include the results in a follow up post. With Evan Van Ness's suggestions of blocking liked tweets it promises to be an interesting experiment. The result of having a  larger web of followers and an algorithmic filter could likely expose you to only the high quartile popularity tweets vs all the tweets of a few high quality creators.
 
-(https://twitter.com/evan_van_ness/status/1131275591687254016){:target="_blank"}
+[Evan Van Ness's Filtering Tip](https://twitter.com/evan_van_ness/status/1131275591687254016){:target="_blank"}
 
 I recommend consuming Twitter in batches in oldest first order. This gives you an idea of how many tweets await and allow you to adjust consumption speed based on time constraints. In the brief scan over while scrolling you get an idea and build anticipation for exciting areas. In addition if your browser crashes or your consumption session is interrupted you have a bookmark in hours of where to resume without missing out any tweets.
 
@@ -187,19 +188,19 @@ Both Morgan Housel and David Perell have written about the information intake ma
 
 In conclusion, I've highlighted the factors that make information management in crypto a challenging task. The fundamentals of producing and distributing information are converging to free resulting in high % of biased / low quality information. In addition crypto is harder due to fragmented platforms and largely distributed remote contributors. I then went over the prevalent structures of information and methods of distributing information . Subsequently I outlined strategies to build and refine your curational engine.
 
-(https://twitter.com/aseanwriter/status/1125274233775411200){:target="_blank"}
+[](https://twitter.com/aseanwriter/status/1125274233775411200){:target="_blank"}
 
 I realize that some of the suggestions here may seem extreme but I like to see it as the information management equivalent of the mostly meat ‘carnivory’ diet. In a world of abundant harmful food and propaganda by big food the carnivory diet generates superior health outcomes through strong discipline and curation.
 
 
 I hope this article will spark further discussion on information management in crypto and result in more people open sourcing their strategies to the community. I've opened a repo on Github with the format for the google sheet and list of tools. Do include pull requests with suggestions or improvements.
 
-(https://github.com/divraj/curate/blob/master/curational%20format.csv){:target="_blank"}
+[Basic Curational Format in CSV](https://github.com/divraj/curate/blob/master/curational%20format.csv){:target="_blank"}
 
 
 ### Recommended Reading 
 
 Venkatesh Rao has written about the optimal amount of reliance and method of connecting with the internet. I highly recommend reading through his arguments Against Waldenponding & Against Waldenponding 2
 
-Venture stories with Michael Mayer - (https://www.spreaker.com/user/10197011/how-to-be-great-at-twitter-the-future-of){:target="_blank"}
+[Venture stories with Michael Mayer](https://www.spreaker.com/user/10197011/how-to-be-great-at-twitter-the-future-of){:target="_blank"}
 
