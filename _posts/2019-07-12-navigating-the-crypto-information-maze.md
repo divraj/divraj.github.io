@@ -10,7 +10,7 @@ First this post goes over the macro factors that make navigating the modern info
 
 The post uses examples from crypto but hope it will be valuable for most other fields. 
 
-![Image didn't load](http://www.divraj.com/compression.png "Information Exponentials")
+![Image didn't load](http://www.divraj.com/compression.PNG "Information Exponentials")
 
 
 The chart above highlights how the internet has quickly accelerated information flows while also reducing the cost of producing and distributing information exponentially. For the sake of simplicity, the cost of creation and distribution are aggregated into one curve. Below I’ve expanded on how these exponentials affect information flows.
