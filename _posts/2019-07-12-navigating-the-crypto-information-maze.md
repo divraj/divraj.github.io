@@ -141,7 +141,7 @@ The Twitter strategy suggested below is based on reading tweets in lists elimina
 
 I intend to switch to a follower based algorithmic approach and include the results in a follow up post. With Evan Van Ness's suggestions of blocking liked tweets it promises to be an interesting experiment. The result of having a  larger web of followers and an algorithmic filter could likely expose you to only the high quartile popularity tweets vs all the tweets of a few high quality creators.
 
-[Evan Van Ness's Filtering Tip , update: the tweet was autodeleted , if this becomes a trend I predict we'll see photoshopped tweets claiming to be autodeleted by fudsters ](https://twitter.com/evan_van_ness/status/1131275591687254016){:target="_blank"}
+[Evan Van Ness's Filtering Tip update: the tweet was autodeleted , if this becomes a trend I predict we'll see photoshopped tweets claiming to be autodeleted by fudsters ](https://twitter.com/evan_van_ness/status/1131275591687254016){:target="_blank"}
 
 I recommend consuming Twitter in batches in oldest first order. This gives you an idea of how many tweets await and allow you to adjust consumption speed based on time constraints. In the brief scan over while scrolling you get an idea and build anticipation for exciting areas. In addition if your browser crashes or your consumption session is interrupted you have a bookmark in hours of where to resume without missing out any tweets.
 
