@@ -10,13 +10,13 @@ author: "Divraj Jain"
 
 Crypto projects need comparatively less legal entity formation and banking relationships
 
-	Those built on ethereum have most layers of business logic and interaction encoded in code. This paradigm minimizes the need for interaction with traditional entities and banks. 
+-Projects built on ethereum have most layers of business logic and interaction encoded in code. This paradigm minimizes the need for interaction with traditional entities and banks. 
 
-	Projects are composable and interoperable - the layers of the crypto stack can be used permissionlessly without fiat payments, negotiating partnerships and getting legal advice. This enables quick integration without fiat payments. 
+-Projects are composable and interoperable - the layers of the crypto stack can be used permissionlessly without fiat payments, negotiating partnerships and getting legal advice. This enables quick integration without fiat payments. 
 
-	Developers and contributors can be compensated in native assets like eth and btc , reducing the need for fiat payments.
+-Developers and contributors can be compensated in native assets like eth and btc , reducing the need for fiat payments.
 
-	No venture capital funding needed - projects can create sustainable income streams and funding options natively on-chain. Hence a reduced need for entity formation and banking accounts for fiat capital and equity stakes.
+-No venture capital funding needed - projects can create sustainable income streams and funding options natively on-chain. Hence a reduced need for entity formation and banking accounts for fiat capital and equity stakes.
 
 Crypto developers and users have all the resources on the internet to get educated from any jurisdiction - No location bound signaling education is required.
 
