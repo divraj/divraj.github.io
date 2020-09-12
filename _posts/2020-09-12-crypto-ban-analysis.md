@@ -27,7 +27,7 @@ Depending on the type of ban and combinations of bans, different parts of the ec
 
 The table below estimates the effect of each policy in isolation.
 
-| Vertical  		 |Banking  |Imprisonment  |Mining  |Domains  |Network Level  |Whitelisting  |
+| Vertical  		 |Banking  |Imprisonment  |Mining  |Domains  |Network  |Whitelisting  |
 |--------------------|---------|-------|----------|-----------|------|---------|
 |**Trading**  		 |down   |down |neutral |down   |down|down   |
 |	Centralized      |dead   |dead |neutral |dead   |dead|down	 |
@@ -51,8 +51,7 @@ While bans may be effective in the short term in the longer term positive regula
 
 Nation states like China and India that initially try to take an oppressive stance will continually flip-flop realizing the futility and inability to execute bans. In this period the state may loose out on crypto project formation and innovation. It may also serve as an advertisement for crypto and create demand.
 
-Competitive nation states should not be afraid of competition by crypto networks. As crypto will be pervasive and [geo-fluid](http://www.divraj.com/posts/crypto-geo-fluidity) , the effective states which people increasingly 'exit' too will enjoy higher voluntary declaration of taxes. As private crypto assets scale people will have the choice to declare their wealth and will only do so if the jurisdiction has a competitive offering (sovereign individual thesis). 
- 
+Competitive nation states should not be afraid of competition by crypto networks. Crypto will be become pervasive and is [geo-fluid](http://www.divraj.com/posts/crypto-geo-fluidity). Positive regulation and interaction will lead to increased crypto company formation and economic activity. Crypto holders and entrepreneurs will increasingly 'exit' to competitive nation states and charter cities if they have regulations in place ( sovereign individual thesis ). 
 
 
 
