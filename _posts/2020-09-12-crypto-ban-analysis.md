@@ -27,7 +27,7 @@ Depending on the type of ban and combinations of bans, different parts of the ec
 
 The table below estimates the effect of each policy in isolation.
 
-| Vertical  		 |Banking ||Imprisonment||Mining   ||Domains||Network Level||Whitelisting|
+| Vertical  		 |Banking--|Imprisonment--|Mining  |Domains  |Network Level  |Whitelisting--|
 |--------------------|---------|-------|----------|-----------|------|---------|
 |**Trading**  		 |down   |down |neutral |down   |down|down   |
 |	Centralized      |dead   |dead |neutral |dead   |dead|down	 |
