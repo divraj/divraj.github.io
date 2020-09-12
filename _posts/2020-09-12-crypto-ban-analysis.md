@@ -27,12 +27,12 @@ Depending on the type of ban and combinations of bans, different parts of the ec
 
 The table below estimates the effect of each policy in isolation.
 
-| Vertical  		 |Banking--|Imprisonment--|Mining  |Domains  |Network Level  |Whitelisting--|
+| Vertical  		 |Banking  |Imprisonment  |Mining  |Domains  |Network Level  |Whitelisting  |
 |--------------------|---------|-------|----------|-----------|------|---------|
 |**Trading**  		 |down   |down |neutral |down   |down|down   |
 |	Centralized      |dead   |dead |neutral |dead   |dead|down	 |
 |	Decentralized  	 |up   	 |down |neutral |down   |down|neutral
-|	p2p              |booming|down |neutral |down   |down|up|
+|	P2P              |booming|down |neutral |down   |down|up|
 |Funding             |down   |dead |down   	|down   |down|down|
 |Remittances		 |down   |down |neutral |down   |down|neutral|
 |DeFi   			 |down   |down |neutral |neutral|down|neutral|
