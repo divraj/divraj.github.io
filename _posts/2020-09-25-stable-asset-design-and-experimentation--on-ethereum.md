@@ -8,11 +8,11 @@ author: "Divraj Jain"
 
 Capital deposited will first be temporarily stored in a hot reserve. Then at daily (hourly etc depending on gas prices ) frequency split into various assets and on-chain strategies decided by a staking inteface. Strategies can be added permissionlessly after a minimum stake is deposited by a proposer. Strategy stakers are renumerated periodically from the reserve taking into account metrics like length , size and performance of the stake. As the design is permissionless people are open to route funds to yearn vaults etc. Profits periodically transferred into a reserve pool.
 
-![eth deposit](https://github.com/divraj/divraj.github.io/raw/master/_assets/ethdeposit.png){:class="img-responsive":width=50%}
+![eth deposit](https://github.com/divraj/divraj.github.io/raw/master/_assets/ethdeposit.png){:class="img-responsive":width="300px"}
 
 When capital is deposited an equivalent amount of the stable asset is minted.
 
-![eth withdrawal](https://github.com/divraj/divraj.github.io/raw/master/_assets/ethwithdrawal.png){:class="img-responsive":width=50%}
+![eth withdrawal](https://github.com/divraj/divraj.github.io/raw/master/_assets/ethwithdrawal.png){:class="img-responsive":width="300px"}
 
 When there is a withdrawal if there is enough liquidity in the reserve, then the reserve is depleted and the withdrawal is made at the original locked price minus an exit fee. The exit fee is added to the reserve. The corresponding amount of stable asset are burnt from supply. 
 
