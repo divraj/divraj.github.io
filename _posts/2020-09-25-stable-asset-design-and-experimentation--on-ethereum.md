@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Stable asset design and experimentation on ethereum"
+title: "Stable Asset Design and Experimentation on Ethereum"
 categories: frequent
 author: "Divraj Jain"
 
