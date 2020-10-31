@@ -51,9 +51,9 @@ As token based distribution proliferated with the rise of ethereum, foundations 
 Nonetheless we are seeing an uptick in pure DAOs using community first transparent governance. This format of transparent governance is on the rise but the jury is still out on whether it is more effective than a traditional hierarchy based organization. Although DAOs certainly represent a novel experiment in governance which is heavily called for in today's environment of governance stasis. 
 
 Due to the strength of DAOs to
--form and grow communities and products in an inclusive manner
--enable low cost legal structures through code 
--enable transparency and auditability 
--enable easy forking to competing projects in case of stasis 
+- form and grow communities and products in an inclusive manner
+- enable low cost legal structures through code 
+- enable transparency and auditability 
+- enable easy forking to competing projects in case of stasis 
 we can expect DAOs to increase as a % of crypto project structures.
 
