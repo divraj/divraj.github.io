@@ -55,5 +55,6 @@ Due to the strength of DAOs to
 - enable low cost legal structures through code 
 - enable transparency and auditability 
 - enable easy forking to competing projects in case of stasis 
+
 we can expect DAOs to increase as a % of crypto project structures.
 
