@@ -13,7 +13,7 @@ Evolution
 - Self funded
 - PoW mining - zcash and other founders reward - rental nicehash etc  
 - VC - equity - pre-sale tokens
-- Token dsitribution - ICO - IEO - bonding curves -liquidity mining  - DEX liquidity 
+- Token distribution - ICO - IEO - bonding curves -liquidity mining  - DEX liquidity 
 - Patronage by exchanges and other stakeholders 
 - PoS rewards 
 
