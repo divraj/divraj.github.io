@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "How UX transforms crypto and other financial assets"
+title: "How UX transforms Crypto and other financial assets"
 categories: crypto-general
 author: "Divraj Jain"
 
