@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "How UX transforms crypto and other financial assets.
+title: "How UX transforms crypto and other financial assets"
 categories: crypto-general
 author: "Divraj Jain"
 
@@ -10,7 +10,7 @@ New UX's (user experience) of financial assets unearth new functionalities , per
 
 Lets look at the evolution of UX for a few assets and consequent changes in their nature. Many aspects affect the UX of an asset but here we will focus on transacting ,storage/custodialness and cost. 
 
--Stock 
+- Stock 
 
 Transact = In person -> Open cry -> Exchange Mainframe -> Internet based site -> Robinhood on mobile -> Tokenized stocks on Ethereum ?
 
@@ -21,7 +21,7 @@ Cost = High -> Medium -> Low -> Zero
 The digitization of the UX led to expansion of access introducing un-savvy retail customers. The gamified always available UX of mobile apps like Robinhood made the gambling aspect of trading stonks seamless. With the possibility of tokenization on public networks like Ethereum we could see interesting innovations in combining them with exciting financial primitives being built in the open. Tokenization will likely lead to decreased value capture to the financial industry and more surplus to retail holders and corporations.
     	
 
--Government Currencies 
+- Government Currencies 
  
 Transact = Coin -> Banknote -> Cheque -> Card -> Mobile app / QR code ( Venmo, Square cash, Retail CDBC) 
 
@@ -42,7 +42,7 @@ Based on UX CDBCs make little sense from the citizen perspective. If citizens ar
 CDBCs will disintermediate private banks allowing governments to fine tune interest policies , welfare and stimulus packages but in the process they will entail increased surveillance , censorship ability and likely degraded customer service.
 
 
--Ether / Crypto
+- Ether / Crypto
 
 Transact = Command line / Desktop client -> CEX -> Browser plugin -> DEX -> Mobile wallet -> Payment Bots -> Hardware (Kong, Opendime )
 
@@ -56,7 +56,7 @@ In the future we may see a proliferation of low cost easy verifiable smart physi
 
 As augmented and virtual reality enter usability crypto payments and assets fit very natively. We already see traction in VR / virtual worlds with non fungible tokens (NFTs) and likely to see many new interaction paradigms.
 
--Gold
+- Gold
 
 Transact = Coin, Bars -> Etf -> Tokenized gold 
     	
