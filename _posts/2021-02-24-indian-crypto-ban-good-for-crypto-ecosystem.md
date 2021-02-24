@@ -13,3 +13,5 @@ An Indian crypto ban maybe beneficial for longterm development of the global cry
 - A ban will be advertisement to Indians not aware of crypto. Making it off limits will increase its allure
 - As @balajis has [written](https://balajis.com/how-india-legalizes-crypto/#s1){:target="_blank"} and @gladstein [have](https://quillette.com/2021/02/21/can-governments-stop-bitcoin/){:target="_blank"} written banning crypto is not possible in the longterm and Indian government will have to reverse course shortly. This period of gestation for privacy preserving dissident tech will benefit the global crypto ecosystem.  
 - We are also likely to see a healthy exodus or 'exit' of projects and entrepreneurs to favorable jurisdictions this drain will serve as a warning to other jurisdictions considering adverse regulation toward crypto
+
+Clear and adept regulation is favorable to any ban, here I am just hypothesizing the possible beneficial effects to the global crypto ecosystem incase the ban were to be enacted
