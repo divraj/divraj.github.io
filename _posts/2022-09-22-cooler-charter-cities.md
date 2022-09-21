@@ -1,4 +1,10 @@
-Cooler Charter Cities 
+---
+layout: post
+title: "Cooler Charter Cities"
+categories: frequent
+author: "Divraj Jain"
+
+---
 
 Countries with moderately cool climates realize better economic output than often poorer warmer nations (https://www.nber.org/system/files/working_papers/w14132/w14132.pdf)
 
