@@ -6,9 +6,9 @@ author: "Divraj Jain"
 ---
 
 
-Countries with moderately cool climates realize better economic output than often poorer warmer nations (https://www.nber.org/system/files/working_papers/w14132/w14132.pdf)
+Countries with moderately cool climates realize [better](https://www.nber.org/system/files/working_papers/w14132/w14132.pdf){:target="_blank"} economic output than often poorer warmer nations 
 
-Labor productivity suffers in hot , humid conditions without air conditioning which is a significant additional cost for businesses especially small ones. Infact Singapore's Lee Kuan Yew suggested that airconditioning was one of the miracles that enabled Singapore's booms. (https://www.vox.com/2015/3/23/8278085/singapore-lee-kuan-yew-air-conditioning)
+Labor productivity suffers in hot , humid conditions without air conditioning which is a significant additional cost for businesses especially small ones. Infact Singapore's Lee Kuan Yew [suggested](https://www.vox.com/2015/3/23/8278085/singapore-lee-kuan-yew-air-conditioning){:target="_blank"} that airconditioning was one of the miracles that enabled Singapore's booms. 
 
 While air conditioning can cool small indoor spaces, outdoor activities and transport always suffer in warmer humid conditions. Outdoor exercise especially walking and sports are tough in these conditions. This lack of outdoor activity affects morale and worker productivity to an underrated extent. The heat also drives the warm cities to move away from walkable and cyclable cities into road favoring nightmares. These cities filled with polluting vehicles increase air and noise pollution further affecting productivity negatively. Additionally the expanse of roads and lack of tree shade further increase surface temperatures making outdoor activity tough.
 
