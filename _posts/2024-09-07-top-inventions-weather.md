@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "The Top Inventions were all made in Cool Weather"
+title: "The top inventions were all made in Cool Weather"
 author: "Divraj Jain"
 ---
 
-Quoting anthropic , while it tries to stay neutral you can see that all inventions of significant importance are done in climates where part of the year is cool nothing in warm humid climates . 
+Quoting anthropic , while it tries to stay neutral you can see that all inventions of significant importance are done in climates where part of the year is cool, nothing in warm humid climates . 
 
 1. Computers and the Internet: Much of the early development happened in temperate climates like California's Silicon Valley (mild, Mediterranean climate) and the northeastern United States (varying seasonal climate).
 
