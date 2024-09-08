@@ -1,12 +1,11 @@
 ---
 layout: post
-title: "The top inventions were all made in cool weather"
+title: "The Top Inventions were all made in Cool Weather"
 author: "Divraj Jain"
 ---
 
 Quoting anthropic , while it tries to stay neutral you can see that all inventions of significant importance are done in climates where part of the year is cool nothing in warm humid climates . 
 
-"
 1. Computers and the Internet: Much of the early development happened in temperate climates like California's Silicon Valley (mild, Mediterranean climate) and the northeastern United States (varying seasonal climate).
 
 2. Antibiotics: Alexander Fleming discovered penicillin in London, which has a temperate maritime climate with cool summers and mild winters.
@@ -25,5 +24,5 @@ Quoting anthropic , while it tries to stay neutral you can see that all inventio
 
 9. Renewable energy: Innovations have come from many climates, though some testing of solar technology occurs in sunnier regions.
 
-10. Transistors and integrated circuits: Bell Labs in New Jersey (humid continental climate) was a key site for early transistor development. "
+10. Transistors and integrated circuits: Bell Labs in New Jersey (humid continental climate) was a key site for early transistor development. 
 
