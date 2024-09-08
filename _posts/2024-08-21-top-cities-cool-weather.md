@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Top economically important cities all have cool weather"
+title: "Top economically important cities all have Cool Weather"
 author: "Divraj Jain"
 ---
 
