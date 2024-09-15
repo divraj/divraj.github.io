@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Building Supersonic Electric Aircraft"
+title: "I'm Building Supersonic Electric Aircrafts"
 author: "Divraj Jain"
 ---
 
