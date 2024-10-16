@@ -26,3 +26,5 @@ The top 1% has also increased their share, from 18.1% in 2011 to 21.7% in 2021.
 The bottom 50% has seen a decrease in their share, from 14.7% in 2011 to 13.0% in 2021.
 The middle 40% has experienced the largest decrease, from 43.1% in 2011 to 39.0% in 2021."
 
+8) Ubiquitous cheap data and smartphones while hailed as victory is actually acting as spiritual opium impeding progress in several areas when combined with addictive western social media , gaming and gambling. While there is an occasional case of exemplary young people achieving alot on platforms like replit using smartphone 90% population are wiling their time on facebook, instagram, tiktok equivalents and stupid games. The people are losing the attention war to devices in a bad way instead of upskilling or working in manufacturing as mentioned in 1).
+
