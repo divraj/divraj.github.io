@@ -18,3 +18,11 @@ India has leapfrogged directly into a stock market economy like the USA.
 5) India's smartest talent continues to emigrate to USA , Europe etc
 
 6) India's startup ecosystem is full of doordashes ( labor arbitrage ) no innovative product or hardware companies. Most valuable startups like byju's are scams , zomato and swiggy further fattening a growingly obese & diabetic population
+
+7) Inequality continues to increase, buoyed by stock market returns. While luxury car sales like mercedes-benz are growing other cars remain flat in previous quarters.
+  
+   "The top 10% of the population has seen an increase in their share of national income, from 42.2% in 2011 to 48.0% in 2021.
+The top 1% has also increased their share, from 18.1% in 2011 to 21.7% in 2021.
+The bottom 50% has seen a decrease in their share, from 14.7% in 2011 to 13.0% in 2021.
+The middle 40% has experienced the largest decrease, from 43.1% in 2011 to 39.0% in 2021."
+
