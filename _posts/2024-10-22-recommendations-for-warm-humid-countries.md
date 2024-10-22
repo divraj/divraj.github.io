@@ -6,7 +6,7 @@ author: "Divraj Jain"
 
 Recommendations for warm toxically humid countries like India to combat the weather and improve future growth.
 
-1) Create cooler charter cities which will replace commercial centers and the capital. E.g. in India only choice is areas with higher elevations like Leh and other hill stations
+1) Create [cooler](https://www.divraj.com/posts/cooler-charter-cities){:target="_blank"}  charter cities which will replace commercial centers and the capital. E.g. in India only choice is areas with higher elevations like Leh and other hill stations
 
 2) Create charter cities and economic zones in other countries with cooler climates
 
