@@ -3,6 +3,7 @@ layout: post
 title: "Assisted Takeoff Strategies for Supersonic Aircraft"
 author: "Divraj Jain"
 ---
+To offset the currently scarce battery density supersonic electric aircrafts could use assisted launch strategies to save upto 5 - 35% of battery capacity needed for takeoff and intial climb. Catapults are commonly used on aircraft carriers and are tried and tested , they could be installed in high volume airports owing to high infrastructure costs. Airship assisted launch if scaled well to could offer significant savings in the long run. 7-10% per takeoff is a massive saving. With companies like Airship Industries already building airships for cargo electric supersonic aircraft could be retrofitted to launch until high volume necessitates specially built airships.
 
 ![takeoff comparison](https://github.com/divraj/divraj.github.io/raw/master/_assets/takeoff-comparison.png){:class="img-responsive"}
 
@@ -197,4 +198,4 @@ author: "Divraj Jain"
 4. EM Catapult: 7
 5. Airship: 9
 
-Text and graph from claude. 
+Except for first paragraph commentary ,text and graph from claude. 
