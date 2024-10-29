@@ -1,0 +1,6 @@
+---
+layout: post
+title: "Single Handed Backhand is Alive and Well"
+author: "Divraj Jain"
+---
+Much is written about the demise of the single handed backhand. Federer himself apparently said he would encourage his children to adopt a two-hander. Many posts highlight the top 10 when there is no single hander in it. Yet with Mpetshi-Perricard surging , Musetti and Dimitrov also doing well the single handed backhand is alive and well. Despite apparent troubles returning high balls , the single hander also has several advantages. The single handed backhand offers greater reach requiring possibly one small step less at times. Second , on the run single handers have an advantage as they reach for the ball. Thirdly, single handed backhands is much more natural hence easier for late starters in tennis to pickup ( although not important for pro players having top players using it influences potentially tennis entrants). Fourthly , the single handed backhand has more style and is aesthetically pleasing to all watchers ( could be TV audiences or members at your club). Fifth , single handed players tend to have better slices and backhand volleys. Taking all these advantages into account we should encourage young players to adopt the single handed backhand ! 
