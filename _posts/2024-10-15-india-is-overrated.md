@@ -28,5 +28,11 @@ The middle 40% has experienced the largest decrease, from 43.1% in 2011 to 39.0%
 
 7) Ubiquitous cheap data and smartphones while hailed as victory is actually acting as spiritual opium impeding progress in several areas when combined with addictive western social media , gaming and gambling. While there is an occasional case of exemplary young people achieving alot on platforms like replit using smartphone 90% population are wiling their time on facebook, instagram, tiktok equivalents and stupid games. The people are losing the attention war to devices in a bad way instead of upskilling or working in manufacturing as mentioned in 1)
 
-8) India's TFR ( Total Fertility Rate ) continues to reduce alarmingly having reached below replacement to 1.96. The fertility rate in metro's is even lower and elite are also having less children. Impact on future growth is self-explanatory. 
+8) India's TFR ( Total Fertility Rate ) continues to reduce alarmingly having reached below replacement to 1.96. The fertility rate in metro's is even lower and elite are also having less children. Impact on future growth is self-explanatory.
+
+9) Another huge problem in India is the terrible acoustic environment in urban centers. Continuous honking , unchecked construction , crows and people playing videos etc from mobile devices and talking at unnessesarily high volumes.
+
+10) Indians in general do not seem to perceive tail risks of death on the roads. Indians can be seen walking in the middle of the road , crossing aggresively , driving bikes and cycles aggressively without helmets ( with unprotected children in tow ). 
+    
+    
 
