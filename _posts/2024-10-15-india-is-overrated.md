@@ -4,7 +4,8 @@ title: "India is Overrated"
 author: "Divraj Jain"
 ---
 
-India has leapfrogged directly into a stock market economy like the USA. 
+India has leapfrogged directly into a stock market economy like the USA. While
+equities continue to grow in price and volume income growth has not kept par. China on the other hand until recently seen modest equity price but median income has grown aggressively.
 
 ![comparison](https://github.com/divraj/divraj.github.io/raw/master/_assets/comparison.png){:class="img-responsive"}
 
