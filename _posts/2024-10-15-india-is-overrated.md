@@ -33,7 +33,9 @@ The middle 40% has experienced the largest decrease, from 43.1% in 2011 to 39.0%
 
 9) Another huge problem in India is the terrible acoustic environment in urban centers. Continuous honking , unchecked construction , crows and people playing videos etc from mobile devices and talking at unnessesarily high volumes.
 
-10) Indians in general do not seem to perceive tail risks of death on the roads. Indians can be seen walking in the middle of the road , crossing aggresively , driving bikes and cycles aggressively without helmets ( with unprotected children in tow ). 
+10) Indians in general do not seem to perceive tail risks of death on the roads. Indians can be seen walking in the middle of the road , crossing aggresively , driving bikes and cycles aggressively without helmets ( with unprotected children in tow ).
+
+11) India's judicial system is overburdened this post explains better than I can [here](https://x.com/captgouda24/status/1982138471792644348?s=46){:target="_blank"}
     
     
 
