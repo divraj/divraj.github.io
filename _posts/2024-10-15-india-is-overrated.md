@@ -37,5 +37,7 @@ The middle 40% has experienced the largest decrease, from 43.1% in 2011 to 39.0%
 
 12) India's judicial system is overburdened this post explains better than I can [here](https://x.com/captgouda24/status/1982138471792644348?s=46){:target="_blank"}
     
+13) Indias overwhelming think with a Malthusian lens citing overpopulation and looting by the British as a cause for poverity. Idea is very well articulated in this Marginal Revolution comment [here](https://marginalrevolution.com/marginalrevolution/2025/11/the-influence-of-malthus-in-india.html){:target="_blank"}
+    
     
 
