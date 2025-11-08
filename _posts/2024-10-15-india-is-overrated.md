@@ -11,7 +11,6 @@ equities continue to grow in price and volume income growth has not kept par. Ch
 
 2) There is limited scope for manufacturing growth. Large english speaking population = more exposure to western social media = aspire to do blue collar knowledge work = higher manufacturing wage costs ( taken from molson hart [video](https://twitter.com/Molson_Hart/status/1839648904054464640){:target="_blank"} )
 
-
 3) Inept government which has stifling bureaucracy at all levels an example is the labor laws outlined by this [paper](https://the1991project.com/writing/papers/why-indian-firms-dont-scale-labor-edition){:target="_blank"}
 
 4) Terrible humid and hot weather discouraging high cognition innovation except in AC and limiting manufacturing efficiency. In addition India has the some of the worst air pollution in the world including it's capital New Delhi. There have been no serious efforts to address this air pollution.
@@ -33,7 +32,7 @@ The middle 40% has experienced the largest decrease, from 43.1% in 2011 to 39.0%
 
 10) Another huge problem in India is the terrible acoustic environment in urban centers. Continuous honking , unchecked construction , crows and people playing videos etc from mobile devices and talking at unnessesarily high volumes.
 
-11) Indians in general do not seem to perceive tail risks of death on the roads. Indians can be seen walking in the middle of the road , crossing aggresively , driving bikes and cycles aggressively without helmets ( with unprotected children in tow ).
+11) Indians in general do not seem to perceive tail risks of death on the roads. Indians can be seen walking in the middle of the road , crossing aggresively , driving bikes and cycles aggressively without helmets ( with unprotected children in tow ). This I feel signals a low self worth in addition to the likely reasons of poor education on the dangers.
 
 12) India's judicial system is overburdened this post explains better than I can [here](https://x.com/captgouda24/status/1982138471792644348?s=46){:target="_blank"}
     
