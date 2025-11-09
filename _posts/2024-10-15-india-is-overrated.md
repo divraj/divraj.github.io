@@ -32,13 +32,17 @@ The middle 40% has experienced the largest decrease, from 43.1% in 2011 to 39.0%
 
 10) Another huge problem in India is the terrible acoustic environment in urban centers. Continuous honking , unchecked construction , crows and people playing videos etc from mobile devices and talking at unnessesarily high volumes.
 
-11) Indians in general do not seem to perceive tail risks of death on the roads. Indians can be seen walking in the middle of the road , crossing aggresively , driving bikes and cycles aggressively without helmets ( with unprotected children in tow ). This I feel signals a low self worth in addition to the likely reasons of poor education on the dangers.
+11) Indians in general do not seem to perceive tail risks of death on the roads. Indians can be seen walking in the middle of the road , crossing aggresively , driving bikes and cycles aggressively without helmets ( with unprotected children in tow ). This I feel signals a low self worth in addition to the likely reasons of poor education on the dangers. This extends to poor civic sense from the median Indian. India is one of the dirtiest countries in the world , read about Bryan Caplan's experiences [here](https://www.betonit.ai/p/reflections-on-india ){:target="_blank"} and some of his other points on the shortcomings of India. 
 
 12) India's judicial system is overburdened this post explains better than I can [here](https://x.com/captgouda24/status/1982138471792644348?s=46){:target="_blank"}
     
 13) Indias overwhelming think with a Malthusian lens citing overpopulation and looting by the British as a cause for poverity. Idea is very well articulated in this Marginal Revolution comment [here](https://marginalrevolution.com/marginalrevolution/2025/11/the-influence-of-malthus-in-india.html){:target="_blank"}
 
-14) "An interesting, novel to me argument for Indo-pessimism: basically, if China locks down commodities from the global South and remains industry-heavy, India will need to make CNY somehow to access this market, and their revenue flow is too Anglo-dependent." [tweet](https://x.com/teortaxesTex/status/1986763803846144222){:target="_blank"}
+14) "An interesting, novel to me argument for Indo-pessimism: basically, if China locks down commodities from the global South and remains industry-heavy, India will need to make CNY somehow to access this market, and their revenue flow is too Anglo-dependent." [tweet](https://x.com/teortaxesTex/status/1986763803846144222){:target="_blank"} . Over dependence on services for exports ( around 44% of GDP ) creates a huge void that can be created by the arrival of AGI.
+
+    
+
+    
     
     
 
