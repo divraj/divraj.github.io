@@ -26,7 +26,7 @@ The top 1% has also increased their share, from 18.1% in 2011 to 21.7% in 2021.
 The bottom 50% has seen a decrease in their share, from 14.7% in 2011 to 13.0% in 2021.
 The middle 40% has experienced the largest decrease, from 43.1% in 2011 to 39.0% in 2021."
 
-8) Ubiquitous cheap data and smartphones while hailed as victory is actually acting as spiritual opium impeding progress in several areas when combined with addictive western social media , gaming and gambling. While there is an occasional case of exemplary young people achieving alot on platforms like replit using smartphone 90% population are wiling their time on facebook, instagram, tiktok equivalents and stupid games. The people are losing the attention war to devices in a bad way instead of upskilling or working in manufacturing as mentioned in 1)
+8) Ubiquitous cheap data and smartphones while hailed as victory is actually acting as spiritual opium impeding progress in several areas when combined with addictive western social media , gaming and gambling. While there is an occasional case of exemplary young people achieving alot on platforms like replit using smartphone 90% population are wiling their time on facebook, instagram, tiktok equivalents and stupid games. The people are losing the attention war to devices in a bad way instead of upskilling or working in manufacturing as mentioned in 1). A related point with 7) mukesh ambani's jio is apparently valued at 180$ bn highlighting inequality and creating growth in sub optimal areas like streaming media etc. All the time youth spend on binge viewing , sport , gaming is zero sum taken away from reading , upskilling or even working seriously.
 
 9) India's TFR ( Total Fertility Rate ) continues to reduce alarmingly having reached below replacement to 1.96. The fertility rate in metro's is even lower and elite are also having less children. Impact on future growth is self-explanatory.
 
@@ -36,7 +36,7 @@ The middle 40% has experienced the largest decrease, from 43.1% in 2011 to 39.0%
 
 12) India's judicial system is overburdened this post explains better than I can [here](https://x.com/captgouda24/status/1982138471792644348?s=46){:target="_blank"}
     
-13) Indias overwhelming think with a Malthusian lens citing overpopulation and looting by the British as a cause for poverity. Idea is very well articulated in this Marginal Revolution comment [here](https://marginalrevolution.com/marginalrevolution/2025/11/the-influence-of-malthus-in-india.html){:target="_blank"}
+13) Indian's overwhelming think with a Malthusian lens citing overpopulation and looting by the British as a cause for poverity. Idea is very well articulated in this Marginal Revolution comment [here](https://marginalrevolution.com/marginalrevolution/2025/11/the-influence-of-malthus-in-india.html){:target="_blank"}
 
 14) "An interesting, novel to me argument for Indo-pessimism: basically, if China locks down commodities from the global South and remains industry-heavy, India will need to make CNY somehow to access this market, and their revenue flow is too Anglo-dependent." [tweet](https://x.com/teortaxesTex/status/1986763803846144222){:target="_blank"} . Over dependence on services for exports ( around 44% of GDP ) creates a huge void that can be created by the arrival of AGI.
 
