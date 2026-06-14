@@ -10,7 +10,7 @@ Over the past decade, engineers and hobbyists have steadily pushed electric quad
 
 What began as a hobbyist ecosystem is rapidly becoming something much more important.
 
-Driven by necessity in Ukraine, interceptor drones have evolved by borrowing heavily from the FPV racing world. These systems are becoming asymmetrically cheaper counters to threats like Shahed drones, with interceptors potentially costing around $1,000 versus targets costing 10,000–25,000 usd. Unlike traditional aerospace programs that may take years between major hardware revisions, interceptor drone ecosystems can evolve in weeks. Motors, batteries, ESCs, radios, flight controllers, onboard compute, and manufacturing methods all benefit from global consumer electronics and EV supply chains. Small teams can rapidly prototype and test systems at a pace rarely seen in aviation.
+Driven by necessity in Ukraine, interceptor drones have evolved by borrowing heavily from the FPV racing world. These systems are becoming asymmetrically cheaper counters to threats like Shahed drones, with interceptors potentially costing around 1000 usd versus targets costing 10000–25000 usd. Unlike traditional aerospace programs that may take years between major hardware revisions, interceptor drone ecosystems can evolve in weeks. Motors, batteries, ESCs, radios, flight controllers, onboard compute, and manufacturing methods all benefit from global consumer electronics and EV supply chains. Small teams can rapidly prototype and test systems at a pace rarely seen in aviation.
 
 Interceptor drones are also uniquely relevant to future high-speed electric flight.
 
